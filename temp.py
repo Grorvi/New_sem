@@ -32,4 +32,4 @@ def menu():
             break
         else:
             print('Введите ещё раз')
-
+            
